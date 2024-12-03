@@ -21,12 +21,11 @@
             <version>5.14.0</version>
         </dependency>
 
+    
         <dependency>
-            <groupId>org.opencv</groupId>
+            <groupId>org.openpnp</groupId>
             <artifactId>opencv</artifactId>
-            <version>4.2.0</version>
-            <scope>system</scope>
-            <systemPath>${project.basedir}/src/test/resources/opencv/opencv-420.jar</systemPath>
+            <version>4.9.0-0</version>
         </dependency>
 
 
